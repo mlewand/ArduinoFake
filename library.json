@@ -1,0 +1,22 @@
+{
+	"name": "ArduinoFake",
+	"keywords": "",
+	"description": "",
+	"homepage": "https://github.com/mlewand/ArduinoFake",
+	"repository": {
+	  "type": "git",
+	  "url": "https://github.com/mlewand/ArduinoFake.git"
+	},
+	"version": "0.1.0",
+	"authors": {
+	  "name": "Marek Lewandowski",
+	  "url": "http://blog.mlewandowski.com/"
+	},
+	"dependencies": {
+	  "ArduinoFake": "https://github.com/FabioBatSilva/ArduinoFake.git"
+	},
+	"exclude": [
+	],
+	"frameworks": "*",
+	"platforms": "*"
+  }
